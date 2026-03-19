@@ -22,8 +22,6 @@ AI-powered system to generate applications using structured backend workflows
 - File system operations through agent-based execution  
 - Built with Next.js, Prisma, PostgreSQL  
 
-🔗 https://code-not-nine.vercel.app  
-
 ---
 
 ### Startup Evaluation Workflow System
@@ -32,7 +30,6 @@ Multi-agent backend system for automated startup analysis
 - Designed using Python asyncio and AutoGen  
 - Structured evaluation pipelines with PostgreSQL  
 
-🔗 https://startup-idea-evaluator-xepw.vercel.app  
 
 ---
 
