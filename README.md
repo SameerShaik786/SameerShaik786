@@ -1,49 +1,39 @@
-## Sameer Shaik
+<h1 align="center">Sameer Shaik</h1>
 
-Backend-focused Software Engineer building scalable systems and agent-driven AI applications.
+<p align="center">
+  <b>Full Stack AI Engineer · Multi-Agent Systems · End-to-End Product Builder</b><br/>
+  <i>3rd Year CSE · RGUKT Nuzvid · Building AI-first products solo</i>
+</p>
 
-## What I Do
-- Design and develop backend systems with async workflows and event-driven architecture  
-- Build AI-powered applications using multi-agent systems and structured execution pipelines  
-- Focus on clean architecture, system reliability, and real-world product development  
-
-## Tech Stack
-- **Backend:** Node.js, Express.js, FastAPI  
-- **Frontend:** Next.js, React.js  
-- **Databases:** PostgreSQL, MySQL, SQLite  
-- **AI Systems:** Inngest, AgentKit, AutoGen  
-- **Tools:** Prisma, Docker, Git  
-
-## Featured Projects
-
-### Code0 – Prompt Driven Application Builder
-AI-powered system to generate applications using structured backend workflows  
-- Async job orchestration using event-driven architecture  
-- File system operations through agent-based execution  
-- Built with Next.js, Prisma, PostgreSQL  
+<p align="center">
+  <a href="https://www.linkedin.com/in/sameer-shaik6411/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/ShaikSameer_6411/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://github.com/SameerShaik786"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-### Startup Evaluation Workflow System
-Multi-agent backend system for automated startup analysis  
-- Parallel execution of financial, market, and competition analysis  
-- Designed using Python asyncio and AutoGen  
-- Structured evaluation pipelines with PostgreSQL  
+### What I Build
 
+I build AI-first products end-to-end — agent pipelines, APIs, and frontends — solo.  
+Not prototypes. Real systems with real architecture decisions behind them.
 
----
-
-### ClientPilot – AI Client Management System
-Freelancer workflow automation platform  
-- Converts unstructured client input into structured deliverables  
-- CRUD backend using Flask, SQLite, Marshmallow  
-- AI-assisted follow-up generation  
+- 🤖 **Multi-agent orchestration** — AutoGen, LangGraph, asyncio parallel pipelines
+- 💹 **Finance domain AI** — stock debate agents, startup evaluation, investment scoring
+- 🔍 **Evaluation & observability** — deterministic scoring engines, agent audit trails
+- ⚡ **Full stack** — FastAPI + Next.js + PostgreSQL, shipped end-to-end
 
 ---
 
-## Problem Solving
-- Solved 400+ DSA problems on LeetCode  
-- Strong focus on backend-oriented problem solving and system design  
+### Featured Projects
 
-## Focus
-Backend Engineering • Distributed Systems • AI-driven Workflows
+| Project | Stack | What it does |
+|--------|-------|--------------|
+| [🧠 Stock Debate System](https://github.com/SameerShaik786/stock-debate-analysis) | LangGraph · FastAPI · Pinecone · Next.js | Bull, Bear, Neutral & Judge agents debate a stock ticker → BUY/SELL/HOLD verdict with confidence score |
+| [📊 Startup Evaluator](https://github.com/SameerShaik786/startup-idea-evaluator) | AutoGen · FastAPI · PostgreSQL · Next.js | 7 parallel AI agents evaluate a startup across financial, market, risk & investor fit domains |
+| [⚡ Code0](https://github.com/SameerShaik786/v0-clone) | Gemini · Inngest · E2B · Next.js | Natural language → working React app, streamed live from a cloud sandbox |
+| [🧩 ClientPilot](https://github.com/SameerShaik786/client-pilot) | Flask · Gemini · React · SQLite | AI scope agent turns raw client messages into structured project deliverables |
+
+---
+
+### Tech Stack
